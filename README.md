@@ -9,13 +9,16 @@ Chào bạn đến với trang GitHub của mình! Mình là một sinh viên đ
 ## Kỹ năng
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![AI](https://img.shields.io/badge/-AI-00C4B4?style=flat&logo=tensorflow&logoColor=white)
 
 ### Ngôn ngữ lập trình
 - **HTML**: Xây dựng cấu trúc web cơ bản  
@@ -40,7 +43,7 @@ Chào bạn đến với trang GitHub của mình! Mình là một sinh viên đ
 - **Postman**: Kiểm tra và phát triển API  
 
 ## Dự án nổi bật
-- [My-Porfolio_Huy](https://github.com/NguyenBaoHuy05/My-Porfolio_Huy)  
+- [My-Porfolio_Huy](https://github.com/NguyenBaoHuy05/My-Porfolio_Huy) - [Demo](https://nguyenbaohuy05.github.io/My-Porfolio_Huy/)  
   Vai trò: Nhà phát triển chính  
   Đóng góp: Xây dựng trang portfolio cá nhân với HTML, CSS, JavaScript  
 - [Graph-Editor](https://github.com/khangdepzaivodich/Graph-Editor)  
@@ -54,5 +57,5 @@ Chào bạn đến với trang GitHub của mình! Mình là một sinh viên đ
   Đóng góp: Xây dựng ứng dụng quản lý với C# WinForms và MS SQL  
 
 ## Thống kê GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenBaoHuy05&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenBaoHuy05&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NguyenBaoHuy05&show_icons=true&theme=dracula)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenBaoHuy05&layout=compact&theme=dracula)
