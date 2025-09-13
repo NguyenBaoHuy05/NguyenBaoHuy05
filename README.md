@@ -1,11 +1,11 @@
 <div align="center">
-<!-- dynamic typing effect 动态打字效果 -->
+
 <div >
   <a href="https://NguyenBaoHuy05.github.io/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&width=835&lines=print(Hi%2C+my+nickname+is+Bao+Huy);Welcome+to+my+github!&center=true&size=25" />
   </a>
 </div>
-<!-- knock code pictures 敲代码的图片 -->
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -14,7 +14,7 @@
 </picture>
 
 
- <!-- for beauty 留个空行好看点 -->
+
 
 <div>&nbsp;</div>
 
@@ -29,9 +29,9 @@
 
 ### Hi, I'm Huy 👋
 Welcome to my Github! I'm excited if you love it.  
-- 🎓 I major in a 3-years student in Ho Chi Minh University of Education 
-- 🌱 Goal: a creative, passionate developer 
-- 📫 Contact: [huynb.it.work@gmail.com](mailto:huynb.it.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nguyen-huy-a0aa692a3/)  
+- I major in a 3-years student in Ho Chi Minh University of Education 
+- Goal: a creative, passionate developer 
+- Contact: [huynb.it.work@gmail.com](mailto:huynb.it.work@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nguyen-huy-a0aa692a3/)  
 
 ## Skills
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white
